@@ -48,6 +48,9 @@ I’m passionate about interface prototyping and found in <strong> Front-End dev
   ![Sass](https://img.shields.io/badge/-Sass-303030?style=flat&logo=Sass)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-303030?style=flat&logo=Bootstrap)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-303030?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  <br>
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;
+  ![git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=AdobeIllustrator)&nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=AdobePhotoshop)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)&nbsp;
